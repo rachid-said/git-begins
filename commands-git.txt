@@ -1,0 +1,3 @@
+Cloner un repo git clone et l'URL
+
+les 3 commandes de push git add, git commit -m (commentaire), git push
